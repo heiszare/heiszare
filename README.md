@@ -12,8 +12,9 @@ Technical Univercity Of QaziPoor
 - learning Foreign Languages
     - English
     - Italian
-    - Turkish
     - Espanish
+    - Kurdish
+    - Turkish
     - arabic
 
 - playing piano

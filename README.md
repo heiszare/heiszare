@@ -12,7 +12,6 @@ Technical Univercity Of QaziPoor
 - learning Foreign Languages
     - English
     - Italian
-    - Spanish
     - Kurdish
     - Turkish
     - arabic
